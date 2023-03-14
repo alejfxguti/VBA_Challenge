@@ -1,7 +1,5 @@
-# VBA_Challenge
-Stock Analysis using VBA and excel
-
 # VBA Homework: The VBA of Wall Street
+Stock Analysis using VBA and excel
 
 ## Background
 
